@@ -15,7 +15,7 @@ It is also spreading around in software so i thought about creating a simple rep
 ### Alternatives
 * **ungoogled-chromium** removes ai stuff like Gemini.
 * **Librewolf** also [fights](https://codeberg.org/librewolf/issues/issues/1919#issuecomment-2301726) against AI features.
-* **Vivaldi** is openly [stating](https://vivaldi.com/blog/keep-exploring/) that there will be no AI features in their browser.
+* **Vivaldi** openly [states](https://vivaldi.com/blog/keep-exploring/) that there will be no AI features in their browser.
 
 # Operating systems
 | Name | Evidence | Alternatives |
