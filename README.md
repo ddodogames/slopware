@@ -13,7 +13,7 @@ It is also spreading around in software so i thought about creating a simple rep
 | Firefox  | [Blog post showing evidences](https://alextheward.com/blog/mozilla_is_now_an_ai_company/).   | see below  |
 
 ### Alternatives
-* **ungoogled-chromium** removes ai stuff like Gemini.
+* **ungoogled-chromium** removes ai stuff like Gemini (Chromium may still have AI sadly so it's not really an alternative).
 * **Librewolf** also [fights](https://chaos.social/@librewolf/115716906957137196) against AI features.
 * **Vivaldi** openly [states](https://vivaldi.com/blog/keep-exploring/) that there will be no AI features in their browser.
 
